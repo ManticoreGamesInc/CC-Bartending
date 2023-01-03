@@ -2,7 +2,7 @@ Assets {
   Id: 9247967537477553295
   Name: "Sno Cone Material"
   PlatformAssetType: 13
-  SerializationVersion: 121
+  SerializationVersion: 123
   VirtualFolderPath: "Bartending"
   CustomMaterialAsset {
     BaseMaterialId: 17117735896314006411

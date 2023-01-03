@@ -2,7 +2,7 @@ Assets {
   Id: 3574423951321706630
   Name: "Custom Hay 02_2"
   PlatformAssetType: 13
-  SerializationVersion: 121
+  SerializationVersion: 123
   VirtualFolderPath: "Bartending"
   CustomMaterialAsset {
     BaseMaterialId: 1074325996530918974

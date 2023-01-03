@@ -461,7 +461,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 121
+  SerializationVersion: 123
   VirtualFolderPath: "Bartending"
   VirtualFolderPath: "System"
 }
